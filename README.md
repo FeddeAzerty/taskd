@@ -32,9 +32,6 @@ dart run build_runner build --delete-conflicting-outputs
 flutter run
 ```
 
-The build_runner step isn't optional. Hive's type adapters are generated and I
-haven't committed them, so nothing compiles until you run it.
-
 Tests are `flutter test`. They cover the filtering and sorting logic plus the
 completion animation, and don't need a device.
 
