@@ -21,6 +21,23 @@ Runs on Android and Windows.
 - Light and dark themes
 - Everything is saved on the device
 
+## Screenshots
+
+The task list, with the menu open for theme, categories and date filters:
+
+![Task list with the menu open](screenshots/task-list.png)
+
+Adding a task, and managing categories:
+
+<p>
+  <img src="screenshots/new-task.png" alt="New task editor" width="49%">
+  <img src="screenshots/categories.png" alt="Category manager" width="49%">
+</p>
+
+Searching:
+
+![Searching tasks](screenshots/search.png)
+
 ## Getting started
 
 You'll need Flutter 3.32.x. For Android, the Android SDK. For Windows, Visual
